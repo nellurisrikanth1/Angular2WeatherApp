@@ -1,4 +1,4 @@
-# SampleRepo
+# Angular 2 Weather App
 
-working on git just to learn how to create repositories and add files.
-In new readme_edit branch.
+## Description
+This repository holds the source code of an Angular 2 Weather App.
